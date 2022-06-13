@@ -1,2 +1,2 @@
-# caraocruz
-proyecto del local
+# proy_negocio
+declaracione e inventarios
