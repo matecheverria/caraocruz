@@ -2,6 +2,10 @@
     width: 700px;
     margin: 0 auto; 
 }
+#div{
+    max-width: 50%;
+    margin: 10px auto;
+}
 
 .button {
     background-color: #0a0d96;
