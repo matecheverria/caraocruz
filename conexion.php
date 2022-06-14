@@ -3,10 +3,10 @@
 	
 	//Conectar a la base de datos
 	
-	$hostname="localhost";
-	$username="root";
+	$hostname="negocio.cominsa.cl";
+	$username="cominsa_root";
 	$password="Pruebasweb1234";
-	$dbname="local_pruebas";
+	$dbname="cominsa_local_pruebas";
 
 	
     $conexion= mysqli_connect($hostname,$username, $password) or die ('Error de conexion: ' . $mysqli->connect_error);
